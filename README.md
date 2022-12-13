@@ -1,2 +1,2 @@
-# A-ucard-repo
+# alucard-repo
 Practice account for learning git
